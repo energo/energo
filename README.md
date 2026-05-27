@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/daniilbystrov/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/energo">
@@ -19,7 +19,7 @@
 
 </div>
 
----
+***
 
 ## About me
 
@@ -27,7 +27,7 @@ I’m a mobile and full-stack developer focused on building polished products fo
 
 I work with Flutter, Swift, backend APIs, real-time systems, release pipelines, payments, analytics, and product infrastructure. I care about performance, clean UX, and shipping reliable software.
 
----
+***
 
 ## A bit more
 
@@ -38,7 +38,7 @@ I work with Flutter, Swift, backend APIs, real-time systems, release pipelines, 
 - 📫 How to reach me: LinkedIn (see link above).
 - ⚡ Fun fact: I like building small tools that improve my own workflow.
 
----
+***
 
 ## Tech stack
 
@@ -46,7 +46,7 @@ I work with Flutter, Swift, backend APIs, real-time systems, release pipelines, 
   <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java,ts,js,nodejs,firebase,gcp,docker,git,github,postgres,linux,vscode&perline=8" alt="Tech stack" />
 </p>
 
----
+***
 
 ## What I work on
 
@@ -59,7 +59,7 @@ I work with Flutter, Swift, backend APIs, real-time systems, release pipelines, 
 - CI/CD and engineering automation
 - Payments, analytics, localization, and product infrastructure
 
----
+***
 
 ## Featured work
 
@@ -71,7 +71,7 @@ A few areas reflected in my public GitHub activity:
 - Internal tools and infrastructure for shipping and monitoring apps
 - Public pull requests and contribution activity across organization repositories
 
----
+***
 
 ## GitHub activity
 
@@ -79,8 +79,8 @@ A few areas reflected in my public GitHub activity:
 - Working across multiple repositories and organizations
 - Shipping new projects and features regularly
 
----
+***
 
 ## Contact
 
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+- LinkedIn: [linkedin.com/in/daniilbystrov](https://www.linkedin.com/in/daniilbystrov/)
